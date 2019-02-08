@@ -1,0 +1,6 @@
+# IntelliJ project files
+.idea
+*.iml
+
+# Zips for upload to google developer dashboard
+*.zip
